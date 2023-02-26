@@ -5,3 +5,4 @@
 ### Features to be added:
 * New game and score counting concept
 * Graphical user interface
+* Themed or difficulty levels
