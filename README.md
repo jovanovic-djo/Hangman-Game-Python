@@ -6,3 +6,4 @@
 * New game and score counting concept
 * Graphical user interface
 * Themed or difficulty levels
+* More words in wordlist.txt
